@@ -1,12 +1,12 @@
 ## Crowd Counting Via Sacle-adaptive Convolutional Nerual Network
-By ZHANG Lu and SHI Miaojing
-This  implementation is written by ZHANG Lu and SHI Miaojing.
+By ZHANG Lu and SHI Miaojing   
+This implementation is written by ZHANG Lu and SHI Miaojing.
 
 ### Introduction 
 This project is an implementation of the crowd counting method proposed in our arxiv paper - Crowd counting via scale-adaptive convolutional neural network (SaCNN). SaCNN extracts feature maps from multiple layers and adapts them to produce the final density map. A relative count loss is proposed to improve the network generalization on crowd scenes with few pedestrians; a new dataset SmartCity is collected for this scenario. 
 
 ### License
-This code is released under the MIT License (Please refer to the LICENSE file for details). It can only be used for academic research purposes.
+This code is released under the MIT License (Please refer to the LICENSE file for details). It can only be used for academic research purposes. Tecent has all the rights reserved.
 
 ### Citation
 Please cite our paper in your publications if it helps your research:
