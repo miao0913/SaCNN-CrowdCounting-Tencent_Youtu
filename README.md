@@ -10,6 +10,7 @@ This code is released under the MIT License (Please refer to the LICENSE file fo
 
 Citation
 Please cite our paper in your publications if it helps your research:
+
 @article{zhang17sacnn,
 Author = {Lu Zhang* and Miaojing Shi*},
 Title = {Crowd Counting Via Sacle-adaptive Convolutional Nerual Network},
@@ -23,8 +24,10 @@ We have tested the implementation on Linux with GPU Nvidia Tesla M40. CUDA7.5 an
 Training and Test
 1. Clone the SaCNN repository 
 $ git clone https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu.git
+
 2. Train SaCNN: 
 $ sh train_sacnn.sh
+
 3. Test SaCNN: 
 $ sh test_sacnn.sh  
 $ MATLAB crowdtest 
