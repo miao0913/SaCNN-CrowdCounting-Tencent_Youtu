@@ -22,7 +22,7 @@ Year = {2017}
 ### Dependencies and Installation 
 We have tested the implementation on Linux with GPU Nvidia Tesla M40. CUDA7.5 and CuDNN v5 is tested. The other version should be working. Caffe installation is pre-required. 
 
-## Training and Test
+### Training and Test
 1. Clone the SaCNN repository 
 ```
 $ git clone https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu.git
