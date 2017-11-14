@@ -38,7 +38,7 @@ $ sh train_sacnn.sh
 $ sh test_sacnn.sh  
 $ MATLAB crowdtest 
 ```
-Pretrained model on ShanghaiTech PartA and PartB can be downloaded from BaiduYun or GoogleDrive. 
+Pretrained model on ShanghaiTech PartA and PartB can be downloaded from [BaiduYun](https://pan.baidu.com/s/1hsEMDVI) or [GoogleDrive](https://drive.google.com/drive/folders/1rSALdD_iG30TXR5m8edvQ4bvID2yUti8?usp=sharing). 
 
 
 ### SmartCity Dataset
