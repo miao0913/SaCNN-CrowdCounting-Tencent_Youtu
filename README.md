@@ -1,5 +1,5 @@
 ## Crowd Counting Via Sacle-adaptive Convolutional Nerual Network
-By ZHANG Lu and SHI Miaojing   
+By ZHANG Lu, SHI Miaojing and CHEN Qiaobo   
 This implementation is written by ZHANG Lu and SHI Miaojing.
 
 ### Introduction 
@@ -12,7 +12,7 @@ This code is released under the MIT License (Please refer to the LICENSE file fo
 Please cite our paper in your publications if it helps your research:
 ```
 @article{zhang17sacnn,
-Author = {Lu Zhang* and Miaojing Shi*},
+Author = {Lu Zhang*, Miaojing Shi* and Qiaobo Chen},
 Title = {Crowd Counting Via Sacle-adaptive Convolutional Nerual Network},
 Journal = {ArXiv:1711.04433},
 Year = {2017}
@@ -44,9 +44,9 @@ Pretrained model on ShanghaiTech PartA and PartB can be downloaded from [BaiduYu
 ### SmartCity Dataset
 We have collected a new dataset SmartCity in the paper. It consists of 50 images in total collected from ten city scenes including office entrance, sidewalk, atrium, shopping mall etc.. Some examples are shown in Fig. 4 in our arxiv paper. Unlike the existing crowd counting datasets with images of hundreds/thousands of pedestrians and nearly all the images being taken outdoors, SmartCity has few pedestrians in images and consists of both outdoor and indoor scenes: the average number of pedestrians is only 7.4 with minimum being 1 and maximum being 14. We use this set to test the generalization ability of the proposed framework on very sparse crowd scenes.
 
-1. The dataset is available. This paper is done in Tencent Youtu Lab. Tecent has the copyright of the dataset. So please email Dr. Miaojing Shi (miao0913@gmail.com)/Chengjie Wang(jasoncjwang@tencent.com) with your name and affiliation to get the download link. It's better to use your official email address.
+1. The dataset is available. This paper is done in Tencent Youtu Lab. Tecent has the copyright of the dataset. So please email Lu Zhang/Miaojing Shi with your name and affiliation to get the download link. It's better to use your official email address.
 2. These data can only be used for academic research purposes.
 
 ### Q&A
-Please send message to Dr. Miaojing Shi miao0913@gmail.com if you have any queestions.
+Please send message to Lu Zhang (zhanlgu330@gmail.com)/Miaojing Shi (miao0913@gmail.com) if you have any queestions.
 
