@@ -48,5 +48,5 @@ We have collected a new dataset SmartCity in the paper. It consists of 50 images
 2. These data can only be used for academic research purposes.
 
 ### Q&A
-Please send message to Lu Zhang (zhanlgu330@gmail.com)/Miaojing Shi (miao0913@gmail.com) if you have any queestions.
+Please send message to Lu Zhang (zhanlgu330@gmail.com)/Miaojing Shi (miao0913@gmail.com) if you have any questions.
 
