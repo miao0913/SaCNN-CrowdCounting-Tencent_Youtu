@@ -1,4 +1,4 @@
-## Crowd Counting Via Scale-adaptive Convolutional Nerual Network
+## Crowd Counting Via Scale-adaptive Convolutional Neural Network
 By ZHANG Lu, SHI Miaojing and CHEN Qiaobo   
 This implementation is written by ZHANG Lu and SHI Miaojing.
 
@@ -13,7 +13,7 @@ Please cite our paper in your publications if it helps your research:
 ```
 @article{zhang17sacnn,
 Author = {Lu Zhang*, Miaojing Shi* and Qiaobo Chen},
-Title = {Crowd Counting Via Sacle-adaptive Convolutional Nerual Network},
+Title = {Crowd Counting Via Sacle-adaptive Convolutional Neural Network},
 Journal = {ArXiv:1711.04433},
 Year = {2017}
 }
