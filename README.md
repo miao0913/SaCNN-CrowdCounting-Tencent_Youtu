@@ -20,7 +20,7 @@ Year = {2018}
 ```
 
 ### Dependencies and Installation 
-We have tested the implementation on Linux with GPU Nvidia Tesla M40. CUDA7.5 and CuDNN v5 is tested. The other version should be working. lmdb2txt (included) has to be compiled with cmake beforehand. Caffe installation is pre-required. The euclidean\_loss\_norm\_layers inside the repository are for the count loss implemtantion in this paper; they should be added into caffe and recompiled.      
+We have tested the implementation on Linux with GPU Nvidia Tesla M40. CUDA7.5 and CuDNN v5 is tested. The other version should be working. Caffe installation is pre-required. lmdb2txt.cpp (included) has to be compiled with caffe under the folder of /yourcaffe/tools/.  The euclidean\_loss\_norm\_layers (together with caffe.proto) inside the repository are for the count loss implemtantion in this paper; they should be compiled with caffe as well.      
 
 ### Training and Test
 1. Clone the SaCNN repository 
