@@ -48,5 +48,5 @@ We have collected a new dataset SmartCity in the paper. It consists of 50 images
 2. Detailed instructions are in the README inside the package. Please cite our WACV'18 paper for reference. 
 
 ### Q&A
-Please send message to Lu Zhang (zhanlgu330@gmail.com)/Miaojing Shi (miao0913@gmail.com) if you have any questions.
+Please submit a bug report on the Github site of the project if you run into any problems with the code. For other inquries contact Lu Zhang (zhanlgu330@gmail.com)/Miaojing Shi (miao0913@gmail.com).
 
