@@ -44,7 +44,7 @@ Pretrained model on ShanghaiTech PartA and PartB can be downloaded from [BaiduYu
 ### SmartCity Dataset
 We have collected a new dataset SmartCity in the paper. It consists of 50 images in total collected from ten city scenes including office entrance, sidewalk, atrium, shopping mall etc.. Some examples are shown in Fig. 4 in our arxiv paper. Unlike the existing crowd counting datasets with images of hundreds/thousands of pedestrians and nearly all the images being taken outdoors, SmartCity has few pedestrians in images and consists of both outdoor and indoor scenes: the average number of pedestrians is only 7.4 with minimum being 1 and maximum being 14. We use this set to test the generalization ability of the proposed framework on very sparse crowd scenes.
 
-1. The dataset is available on [BaiduYun](https://pan.baidu.com/s/1pMuGyNp)/[GoogleDrive](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing). It is collected by Tencent Youtu Lab. Tecent has the copyright of it. These data can only be used for academic research purposes. 
+1. The dataset is available on [BaiduYun](https://pan.baidu.com/s/1pMuGyNp)/[GoogleDrive](https://drive.google.com/open?id=1bDJVASFbQ5LbpaKpgAH8CruKWqLrXUEh). It is collected by Tencent Youtu Lab. Tecent has the copyright of it. These data can only be used for academic research purposes. 
 2. Detailed instructions are in the README inside the package. Please cite our WACV'18 paper for reference. 
 
 ### Q&A
