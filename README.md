@@ -7,9 +7,7 @@ This project is an implementation of the crowd counting method proposed in our W
 
 ### License
 This code is released under the MIT License (Please refer to the LICENSE file for details). It can only be used for academic research purposes. Tencent has all the rights reserved. 
-```
-(Contact: Chengjie Wang jasoncjwang@tencent.com).
-```
+
 ### Citation
 Please cite our paper in your publications if it helps your research:
 ```
